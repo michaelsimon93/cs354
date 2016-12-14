@@ -1,6 +1,6 @@
 # cs354_projects
 
-These projects were done for my cs354 - Machine Organization and Programming course at the University of Wisconsin. Below are the descriptions for each project:
+These projects were done for my cs354 - Machine Organization and Programming course in the Spring of 2015 at the University of Wisconsin. Below are the descriptions for each project:
 
 p1:
 The purpose of this program is to quickly become good at writing C programs, gaining the experience of working in a non-object oriented language. Arrays, command-line arguments, file I/O, pointers, and structures are used. You will write 3 C programs. To begin with, you are given the program generate. Running this program generates a set of integers. The generate program writes two's complement integer representations to a file; this representation is often called binary output. It also prints out the ASCII version of the integers to stdout (the display), placing each value on its own line. You will be writing programs that work with two types of files: binary and ASCII. 
